@@ -5,6 +5,7 @@ this sourcemod plugin brings free for all deathmatch to tf2
 * Friendly Fire: https://forums.alliedmods.net/showthread.php?t=342166
 * Instant Respawn: https://forums.alliedmods.net/showthread.php?p=2174552
 * Custom Spawn Locations [not yet complete]: https://github.com/tf2-cjm/custom-spawn-locations
+* Disable Team Objectives: https://forums.alliedmods.net/showthread.php?t=140862&page=4
 
 # Contributing
 * Setup for development: https://www.youtube.com/watch?v=QF7urRJIgrE
